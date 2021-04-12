@@ -1,10 +1,6 @@
 <?php 
  
- /*
- * Created by Belal Khan
- * website: www.simplifiedcoding.net 
- * Retrieve Data From MySQL Database in Android
- */
+
  
  //database constants
  define('DB_HOST', 'localhost');
